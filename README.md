@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Harrie van Winden]
+# Hey there! 👋 I'm Harrie van Winden
 
 <div align="center">
   
